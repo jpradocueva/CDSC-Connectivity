@@ -5,9 +5,9 @@ version: "1.0"
 organizationName: "LF Energy"
 date: "2025-03-02"
 copyrightDate: "2025"
-logo: "./website/assets/cdsc-logo-color.svg"
+logo: "images/cdsc-logo.png"
 documentName: "CDSC-TS-WG1-Server-Metadata-V1_0"
 watermark: "DRAFT"
 files:
-  - cdsc-wg1-01.md.md
+  - cdsc-wg1-01.md
 ---
